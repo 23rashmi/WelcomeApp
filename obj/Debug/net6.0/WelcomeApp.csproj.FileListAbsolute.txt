@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
